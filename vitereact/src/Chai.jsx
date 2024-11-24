@@ -2,7 +2,7 @@
 function Chai(){
 
     return(
-        <h3> chai over</h3>
+        <h3> chai over ☕</h3>
     )
 }
 
